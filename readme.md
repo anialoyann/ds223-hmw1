@@ -15,13 +15,15 @@ This project uses the **Bass Diffusion Model** to analyze the adoption of the Ap
 
 ## Purpose
 
-The aim of this project is to model and visualize the adoption curve for Apple HomePod, using the Bass Diffusion Model. The report helps to understand how various factors (like innovation and imitation) influence product adoption over time.
+The aim of this project is to use a Bass Diffusion model with the help of Apple HomePod to predict a diffusion path for a 2023 innovation Sonos Era 300 . 
 
 ## Stages
 
 - Implements the Bass Diffusion Model on Apple HomePod adoption data.
 - Analyzes the adoption trends and estimates future adoption.
 - Generates visualizations to explore the impact of model parameters.
+- Predicts the diffusion path for Sonos Era 300
+- Estimates the number of adopters for Sonos Era 300
 
 ## How to Use
 
